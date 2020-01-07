@@ -1,5 +1,7 @@
 package mx.com.lobos.models;
 
+import mx.com.lobos.models.entity.Producto;
+
 public class Item {
 
 	private Producto producto;
